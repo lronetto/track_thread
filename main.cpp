@@ -10,7 +10,7 @@
 #include <pigpio.h>
 #include "pid.h"
 #include "servo.h"
-fsadfasdf
+
 using namespace cv;
 using namespace std;
 #define LED1	2
